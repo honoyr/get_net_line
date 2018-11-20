@@ -1,3 +1,3 @@
 # get_net_line
 
-There is pdf with describing the project - [here](https://github.com/Binary-Hackers/42_Subjects/blob/master/00_Projects/00_Global/get_next_line.pdf)
+There is pdf with describing the project - [get_next_line.en.pdf](https://github.com/honoyr/get_net_line/files/2598044/get_next_line.en.pdf)
